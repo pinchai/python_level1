@@ -15,3 +15,7 @@ class Product:
                f"{self.qty:,.2f}  " \
                f"{self.amount():,.2f}"
 
+
+
+
+
