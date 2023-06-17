@@ -31,6 +31,6 @@ class People:
         return current_year - self.__year_of_birth
 
     def __str__(self):
-        return f"{self.__id}\t{self.__name}\t{self.__cal()}"
+        return f"\t{self.__id}\t{self.__name}\t{self.__cal()}"
 
 
