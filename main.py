@@ -1,8 +1,15 @@
-from people import *
-from student import *
+from Class import *
 
-p = People(1, 'chan', 1995)
-s = Student(2, 'thy', 2000, 'MIS', 6.5)
+ss3 = Class('ss', '3', '3', 20)
+ss4 = Class('ss', '4', '3', 25)
+ss34 = ss3 + ss4
 
-print(p)
-print(s)
+print(ss3)
+print('-------')
+print(ss4)
+print('-------')
+print(ss34)
+
+
+
+
