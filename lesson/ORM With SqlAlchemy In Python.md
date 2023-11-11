@@ -32,13 +32,13 @@ In this section, we will study the ORM technology of Flask-SQLAlchemy and build 
 **_Step 3_ - ** Now create a Flask application object and set the URI for the database to use.
 
 ````
-//SQLite
+#SQLite
 app = Flask (__name__)
 app.config ['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///students.sqlite3'
 ````
 
 ````
-//SQLite
+#SQLite
 app = Flask (__name__)
 app.config ['SQLALCHEMY_DATABASE_URI'] = 'mysql+mysqlconnector://user:password@host/database'
 ````
@@ -76,7 +76,7 @@ if __name__ == '__main__':
 ````
 
 
-##CRUD
+##❇️ CRUD
 SQLAlchemy’s Session object manages all persistence operations for ORM objects.
 
 The following session method performs CRUD operations:
