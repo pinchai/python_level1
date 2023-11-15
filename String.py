@@ -1,6 +1,6 @@
-
-
-txt = "The best things in life are free!"
-print('free' in txt)
+username = str(input('Enter Your Name: '))
+age = int(input("Enter You Age: "))
+print('Name\tAge')
+print(f"{username}\t{age}")
 
 
