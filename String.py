@@ -1,6 +1,6 @@
-username = str(input('Enter Your Name: '))
-age = int(input("Enter You Age: "))
-print('Name\tAge')
-print(f"{username}\t{age}")
 
+
+arr_student = ["sopheak", "theara"]
+for item in arr_student:
+    print(item)
 
