@@ -1,6 +1,7 @@
 
 
-arr_student = ["sopheak", "theara"]
-for item in arr_student:
-    print(item)
-
+data = ['a', 'b', 'c']
+for item in data:
+  if item == 'c':
+    break
+  print(item)
