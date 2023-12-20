@@ -9,8 +9,7 @@ https://api.telegram.org/bot5442577783:AAHqbqmchMEPsNkyllL6zYG73sBdC_1cyHQ/sendM
 * chat_id: (personal account, group, channel)
 * bot_toked: botxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-bot name: ss20notifybot
-bot user_name: ss_20_notifiy_bot
-bot toked: 6414826349:AAHD2aY3UD2Rd3u1b5TdWhOAcrMcWC3tVqU
+bot name: ss25AttendanceBot
+bot user_name: @ss_25_attendance_notify_bot
+bot toked: 6726116841:AAErPKqAkCxpMgaQJ9K5DuUDi2UMmZI-tzA
 ````
-https://t.me/ss_20_attendance_notify_bot
