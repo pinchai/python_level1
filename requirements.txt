@@ -1,4 +1,5 @@
-altgraph==0.17.3
-macholib==1.16.2
-pyinstaller==5.12.0
-pyinstaller-hooks-contrib==2023.3
+certifi==2023.11.17
+charset-normalizer==3.3.2
+idna==3.6
+requests==2.31.0
+urllib3==2.1.0
